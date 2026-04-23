@@ -149,3 +149,7 @@ Future work includes:
 - Network configuration
 - Security setup
 - Shell scripting
+
+
+## For More AI/ML Projects visit
+https://github.com/saleyon
