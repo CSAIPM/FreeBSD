@@ -70,7 +70,8 @@ Recommended:
 
 Download VMware Workstation from:
 
-https://www.vmware.com
+https://www.vmware.com or
+https://www.techspot.com/downloads
 
 ## Step 2: Create Virtual Machine
 
@@ -80,7 +81,7 @@ Configuration:
 - RAM: 4 GB
 - Disk: 20 GB
 
-![VM Setup](Images/fig1.png)
+
 
 ---
 
@@ -91,7 +92,7 @@ Select:
 CD/DVD  
 Use ISO image  
 
-![ISO Setup](Images/fig2.png)
+
 
 ---
 
